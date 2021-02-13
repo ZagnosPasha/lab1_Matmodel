@@ -1,13 +1,13 @@
-#People's Friendship University of Russia
-##Lab report number 1
-##Completed
-###Student Name:Ally Mohammed Zayan Ahamed
-###Group :HKH-01-18
-###Lecturer:Kulyabov Dimitry Sergeevich
+# People's Friendship University of Russia
+## Lab report number 1
+## Completed
+### Student Name:Ally Mohammed Zayan Ahamed
+### Group :HKH-01-18
+### Lecturer:Kulyabov Dimitry Sergeevich
 
 ------
 
-##Purpose
+## Purpose
 
 
 How to work with git version control systems
@@ -21,11 +21,11 @@ How to work with git version control systems
 5.Generate a report and create a presentation in pdf,docx and markdown formatts
 6.Create a final release
 
-#Subject of the study
+# Subject of the study
 
 Git. Markdown
 
-#List of Illustrations
+# List of Illustrations
 
 1.Figure 1 -images/1.png
 2.Figure 2 -images/2.png
@@ -60,6 +60,6 @@ Made a release test on github (fig. 4)
 ![Picture name](images/6.png){Image 6}
 
 
-#Conclusions
+# Conclusions
 
 Learned how to solve issues on github, how to make commits and push them.Learned how to mke releases and got accquainted with MarkDown
